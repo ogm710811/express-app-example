@@ -1,0 +1,104 @@
+body {
+    color: white;
+    background-image: url('/images/background.jpeg');
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: center center;
+    display: block;
+}
+
+.navbar {
+    margin-top: 10px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: black;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: black;
+}
+
+.navbar-inverse {
+    background-color: sandybrown;
+    border-color: #080808;
+}
+
+.navbar-text {
+    margin-right: 0;
+    margin-left: 0;
+    font-size: 22px;
+}
+
+img {
+    border: 1px solid white;
+}
+
+/*personal-info page*/
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    padding: 15px;
+    text-align: left;
+    background-color: gray;
+    color: white;    
+}
+
+td {
+    padding-left: 15px;
+}
+
+/*galery page*/
+.w3-content {
+    width: 400px;
+    /*margin: auto;*/
+    margin-left: 400px;
+}
+
+.w3-display-container {
+    position: relative;
+}
+
+.w3-black, .w3-hover-black:hover {
+    color: #fff!important;
+    background-color: #000!important;
+}
+
+.w3-display-left {
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    transform: translate(0%,-50%);
+    -ms-transform: translate(-0%,-50%);
+}
+
+.w3-display-right {
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    transform: translate(0%,-50%);
+    -ms-transform: translate(0%,-50%);
+}
+
+.w3-button {
+    border: none;
+    display: inline-block;
+    outline: 0;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+/*club career page*/
+.club-career {
+    font-size: 20px;
+}

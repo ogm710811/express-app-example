@@ -1,0 +1,28 @@
+{
+  "name": "express-app-example",
+  "version": "1.0.0",
+  "description": "express app example. create a celebrity website with three linked pages.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogm710811/express-app-example.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "ejs"
+  ],
+  "author": "Orestes Garcia Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogm710811/express-app-example/issues"
+  },
+  "homepage": "https://github.com/ogm710811/express-app-example#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  }
+}
