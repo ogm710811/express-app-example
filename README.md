@@ -8,7 +8,7 @@ The original author described it as a relatively minimal with many features avai
 Express is the backend part of the MEAN stack, together with MongoDB database and AngularJS frontend framework.
 
 # Celebrities - Sergio Ramos 
-This Website use Express with EJS.It's dedicated to a Spanish professional footballer who plays for and captains both, 
+This Website use Express with EJS. It's dedicated to a Spanish professional footballer who plays for and captains both, 
 Real Madrid and the Spain national football team. A central defender, he can also play as a right back.
 
 ## Requirements
